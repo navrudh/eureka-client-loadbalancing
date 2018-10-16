@@ -1,0 +1,5 @@
+rootProject.name = 'eureka-client-loadbalancing'
+include 'discovery-server'
+include 'microservice'
+include 'load-balanced-client'
+
